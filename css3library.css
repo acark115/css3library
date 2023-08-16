@@ -1,0 +1,13 @@
+/*BASİC SELECTOR*/
+h1{
+  color : red;
+  background: blue;
+}/*tüm h1 leri kırmızı yaptık arkaplanını mavi yaptık*/
+#logo{
+   color : red;
+  background: blue;
+}/*id ye göre seçtik*/
+.info{
+   color : red;
+  background: blue;
+}/*classı info olanı seçtik*/ 
